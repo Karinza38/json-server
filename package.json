@@ -53,7 +53,7 @@
     "chokidar": "^4.0.1",
     "dot-prop": "^9.0.0",
     "eta": "^3.5.0",
-    "inflection": "^3.0.0",
+    "inflection": "^3.0.2",
     "json5": "^2.2.3",
     "lowdb": "^7.0.1",
     "milliparsec": "^4.0.0",
